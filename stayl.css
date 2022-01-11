@@ -1,9 +1,70 @@
-
-   #gog {
-    top: 81px;
-    left: 69px;
+#jojd {
     position: absolute;
-    padding: 36px;
-    border-radius: 25px;
-    background: rgb(156, 183, 255);
- }
+    top: -1px;
+    left: 260px;
+}
+#jojd1 {
+    position: absolute;
+    top: 60px;
+    left: 260px;
+}
+#jojd2 {
+    position: absolute;
+    top: 115px;
+    left: 260px;
+}
+#up {
+    position: absolute;
+    top: -8px;
+    left: 460px;
+}
+#up2 {
+    position: absolute;
+    top: 50px;
+    left: 460px;
+}
+#up3 {
+    position: absolute;
+    top: 110px;
+    left: 460px;
+}
+#down {
+    display: none;
+    position: absolute;
+    top: -8px;
+    left: 460px;
+}
+#down2 {
+    display: none;
+    position: absolute;
+    top: 50px;
+    left: 460px;
+}
+#down3 {
+    display: none;
+    position: absolute;
+    top: 110;
+    left: 460px;
+}
+#gog {
+    outline: 2px solid #000; /* Чёрная рамка */
+}
+#but {
+        position: absolute;
+        top: 30px;
+        left: 560px;
+        background: rgb(156, 183, 255); /* Цвет фона */
+}
+#but2 {
+    position: absolute;
+    top: 90px;
+    left: 560px;
+    background: rgb(156, 183, 255); /* Цвет фона */
+}
+
+#but3 {
+    position: absolute;
+    top: 147px;
+    left: 560px;
+    background: rgb(156, 183, 255); /* Цвет фона */
+}
